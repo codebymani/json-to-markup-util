@@ -1,0 +1,15 @@
+
+
+.img-center {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.page-img{
+    padding: 40px;;
+}
+
+.table-container {
+    border: 1px solid #000 !important;
+}
